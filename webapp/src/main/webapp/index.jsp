@@ -3,6 +3,7 @@
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <p>Test deploying to Tomcat server using Jenkins, Maven, and Github.</p>
+    <p>Now test deploying with Poll SCM and push from local to github.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
